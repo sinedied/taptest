@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "test": "tap"
+    "test": "tap *.test.js"
   },
   "devDependencies": {
     "tap": "^18.4.3",
