@@ -6,7 +6,6 @@
   "scripts": {
     "test": "tap"
   },
-  "license": "ISC",
   "devDependencies": {
     "tap": "^18.4.3",
     "@tapjs/nock": "^3.1.7"

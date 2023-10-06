@@ -1,23 +1,4 @@
-# Azure az webapp deployment details
-.azure
-*_env
-
-# Unit test / coverage reports
-.coverage
 .tap
-test-dist/
-
-# Environments
-.env
-
-# NPM
 npm-debug.log*
 node_modules
-static/
-dist/
-
-# macOS
 *.DS_Store*
-
-# misc
-TODO
